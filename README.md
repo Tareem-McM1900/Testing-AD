@@ -37,33 +37,33 @@
 
 <h2>Virtual Machine Deployment</h2>
 
-<h3>Step 1: Create Azure Resources</h3>
+<h4>Step 1: Create Azure Resources</h4>
 
-<h3>Step 2: Configure DC-1 (Domain Controller)</h3>
+<h4>Step 2: Configure DC-1 (Domain Controller)</h4>
 
-<h3>Step 3: Ensure Connectivity</h3>
+<h4>Step 3: Ensure Connectivity</h4>
 
 <p>
 <img src="https://i.imgur.com/s4WiqjA.png" height="80%" width="80%" alt="Domain Users in a VM"/>
 </p>
 
 <p>
-<img src="https://i.imgur.com/70SuOtT.png" height="80%" width="80%" alt="Domain Users in a VM"/>
+<img src="https://i.imgur.com/ncEB37Y.png" height="80%" width="80%" alt="Domain Users in a VM"/>
 </p>
 <p>
 <h2>Active Directory Setup</h2>
 
-<h3>Step 4: Set Up Active Directory on DC-1</h3>
+<h4>Step 4: Set Up Active Directory on DC-1</h4>
 
-<h3>Step 5: Create User Accounts in AD</h3>
+<h4>Step 5: Create User Accounts in AD</h4>
 
-<h3>Step 6: Join Client-1 to the Domain</h3>
+<h4>Step 6: Join Client-1 to the Domain</h4>
 
-<h3>Step 7: Organize Clients in an OU (Optional)</h3>
+<h4>Step 7: Organize Clients in an OU (Optional)</h4>
 
-<h3>Step 8: Configure Remote Desktop Access on Client-1</h3>
+<h4>Step 8: Configure Remote Desktop Access on Client-1</h4>
 
-<h3>Step 9: Create Additional Users and Log In</h3>
+<h4>Step 9: Create Additional Users and Log In</h4>
 
 <p>
 <img src="https://i.imgur.com/JH4o8o6.png" height="50%" width="50%" alt="Domain Users in a VM"/>
